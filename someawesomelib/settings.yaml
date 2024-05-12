@@ -1,0 +1,4 @@
+logger:
+  log_level: "DEBUG"
+  log_json_format: true
+  only_log_someawesomelib: false
